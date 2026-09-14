@@ -1,0 +1,4 @@
+interface:
+  display_name: "智企·纸上留影"
+  short_description: "把照片提炼成独立纸感版画，支持手机封面构图、中文模式介绍与使用指导"
+  default_prompt: "用 $zhiqi-photo-relic-editorial 把这张照片做成独立的纸上留影，只交生成图，不拼原图，不加标题。"
